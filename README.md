@@ -1,618 +1,353 @@
-# Study Guide: Chapters 7, 8, 9 & 10
-## *Business and Professional Communication — DiSanza & Legge (6th Ed.)*
+# Chapter 1 Study Guide: Pragmatics and Philosophy
+
+## *Speech Act Theory & the Theory of Conversational Implicature*
+
+### Understanding Pragmatics — Gunter Senft (Sections 1.2, 1.3 & 1.5)
 
 ---
-
-# CHAPTER 7: Preparing and Delivering Presentations
 
 ## CHAPTER SUMMARY
 
-Chapter 7 walks through every step of building and delivering a professional presentation. It starts with deciding your **general purpose** (inform or persuade), selecting a **topic**, narrowing it into a **specific purpose statement**, and developing a **main idea statement**. It then covers gathering **supporting material** (examples, statistics, testimony), researching using the library, internet, and interviews, and applying audience analysis results. The chapter closes with how to **structure, outline, introduce, conclude,** and **deliver** a speech.
+Sections 1.2, 1.3 and 1.5 form the philosophical core of Chapter 1. They answer two foundational questions in pragmatics: **What do we do when we speak?** and **What do we actually mean?**
+
+The chapter comes out of a reaction to **Logical Positivism** (the Vienna Circle — Schlick, Carnap, Ayer), which held that a sentence is only meaningful if it can be verified as true or false. This excluded most ordinary language as "meaningless." The **Ordinary Language Philosophy** school at Oxford (influenced by Wittgenstein; including Austin, Searle, and Grice) rejected this and turned instead to how language actually functions in use.
+
+The three big ideas tying everything together:
+
+* **Speech as action** — saying something is always *doing* something (Austin)
+* **Rules govern speech acts** — illocutionary acts follow constitutive rules; what we say has a specific force determined by conditions (Searle)
+* **Meaning beyond words** — speakers communicate more than they literally say, and hearers use shared assumptions to infer this extra meaning (Grice)
 
 ---
 
-## KEY CONCEPTS & TERMS
+## SECTION 1.2: JOHN AUSTIN'S SPEECH ACT THEORY
 
-### 7.1 General Purpose
-> **General purpose** — *The overarching goal of the speech: to **inform** or to **persuade**.*
+### Background
 
-- **Informative speeches** — teach, demonstrate, or instruct
-- **Persuasive speeches** — induce the audience to accept a belief or take action
-- In professional settings, the general purpose is often determined in advance (e.g., sales = persuade; training = inform)
+> **How to Do Things with Words** (Austin, 1962) — *Austin's 12 William James Lectures delivered at Harvard (1955), posthumously published. Not a finished theory but an "exposé" of developing thought. The origin of speech act theory.*
 
----
-
-### 7.2 Selecting a Topic
-- Most business/professional topics are assigned by superiors or context
-- When choosing your own: consider **personal experience** and **audience interests**
-- If audience interest can't be generated, reconsider the topic
+Austin's starting conviction: there is a distinction between the **meaning** expressed by an utterance and the **way** in which the utterance is *used* (its "force") — and that utterances of every kind can be considered as **acts**.
 
 ---
 
-### 7.3 Specific Purpose Statement
-> **Specific purpose statement** — *A single, precise statement of the **audience outcome** the speaker desires.*
+### 1.2.1 — Constatives vs. Performatives
 
-Rules:
-- Written as a **full infinitive sentence** (e.g., "I want my audience to understand…")
-- Must refer to the **audience** and state a **single, distinct idea**
-- Too vague: *"I want my audience to understand pollution."*
-- Better: *"I want my audience to understand the sources of groundwater pollution in our town."*
+Austin begins by distinguishing two types of sentences:
 
----
+> **Constative** — *An assertion or statement that describes a state of affairs and can be evaluated as true or false.*
 
-### 7.4 Main Idea Statement
-> **Main idea statement** — *A precise statement of the **two to five main ideas** in the speech body.*
+> **Performative** — *An utterance that does something rather than merely saying something. It is neither true nor false, but happy or unhappy. The verb is typically in the first person singular present indicative active.*
 
-- Emerges after research
-- Written as a **declarative sentence**, not a question
-- Each main idea should be stated in **full sentences**, not phrases
-- Example: *"In this speech I will cover three theories about why the body ages: first, random damage; second, hormonal influences; and third, genetic programs."*
+**Examples:**
 
----
+| Type | Example |
+|-|-|
+| **Performative** | "I name this ship the Queen Elizabeth." |
+| **Performative** | "I bet you six pence Fury will win the race." |
+| **Constative** | "My daughter's name is Frauke." |
+| **Constative** | "We live in a small provincial town in Germany." |
 
-### 7.5 Supporting Material
-Three types:
-
-| Type | Definition |
-|---|---|
-| **Examples** | Specific instances (factual or hypothetical) that illustrate a point |
-| **Statistics** | Collections of individual examples as raw numbers or averages |
-| **Testimony** | A direct quotation or paraphrase of witnesses, experts, or informed people |
-
-- **Factual examples** > hypothetical examples for persuasion
-- Use **comparisons** to make statistics meaningful
-- Use **reluctant testimony** (against the source's self-interest) for maximum credibility
+Performatives *perform* an act (baptising, betting, marrying) — they cannot be "true" or "false." Instead, they can succeed or fail — be **happy** or **unhappy** — depending on whether their conditions are met.
 
 ---
 
-### 7.6 Research Tools
-Three primary tools:
-1. **Library** — computerized catalog, periodical indexes/abstracts, EBSCO databases
-2. **Internet** — search engines (Google, Yahoo!, Bing); evaluate using authority, objectivity, recency, reliability (see Figure 7.1)
-3. **Interviews** — face-to-face, phone, or email with experts; send thank-you note after
+### Felicity Conditions
 
-> **Web of Knowledge approach** — *Building research by following citation chains: start with one article → follow its references → find "foundational sources" cited across multiple papers.*
+Because performatives cannot be true or false but *can* go wrong, Austin formulates the **felicity conditions** — the requirements a performative must meet to succeed:
 
----
+> **Felicity conditions** — *The necessary conditions for a performative (and later, any speech act) to be successfully and appropriately performed.*
 
-### 7.7 Applying Audience Analysis
-Use the **Speech Adaptation Checklist** (Figure 7.2) to apply results from the **Audience Analysis Checklist** to the actual speech — adjusting content, structure, and delivery for the specific audience.
+| Condition | Requirement |
+|-|-|
+| **A(i)** | There must be a conventional procedure having a conventional effect. |
+| **A(ii)** | The circumstances and persons must be appropriate to the procedure. |
+| **B(i)** | The procedure must be executed correctly. |
+| **B(ii)** | The procedure must be executed completely. |
+| **C(i)** | The persons must have the requisite thoughts, feelings, and intentions. |
+| **C(ii)** | If consequent conduct is specified, the relevant parties must so act. |
 
----
+**Examples of violations:**
 
-### 7.8 Structuring the Speech Body
-Five organizational patterns:
+* **A(i) violated:** A Christian husband saying "I hereby divorce you" three times — this constitutes a divorce for a Muslim couple but not a Christian one.
+* **A(ii) violated:** A clergyman baptising a baby "Albert" instead of "Alfred."
+* **B(ii) violated:** A bride saying "I don't" when the groom says "I do" — the marriage is not performed.
+* **C(i) violated:** Giving intentionally bad advice when asked for help.
+* **C(ii) violated:** Making a promise with no intention of keeping it.
 
-| Structure | Description |
-|---|---|
-| **Chronological** | Time order — earliest to latest |
-| **Spatial** | Geographic or directional order |
-| **Cause–Effect / Effect–Cause** | One event leads to another |
-| **Problem–Solution** | Define a difficulty; suggest a remedy |
-| **Topical** | Divide topic into logical categories |
+When conditions A or B are violated, the action is simply not achieved — Austin calls these **misfires**. When condition C is violated, the act is achieved but insincerely — Austin calls these **abuses**.
 
-- Speeches have **three parts**: introduction, body, conclusion
-- Body should have **2–5 main ideas** (stated in full sentences)
+> **Misfires** — *Infelicities in which the intended act is not achieved at all (A or B conditions violated).*
 
-> **Connectives** — *Linguistic devices that link ideas and act as maps for the audience.*
-
-Five types of connectives:
-1. **Transitions** — full-sentence statements between major sections
-2. **Forecasting** — previewing subpoints within a main idea
-3. **Parallel order** — same structure repeated across ideas
-4. **Parallel language** — same words/phrases repeated in previews and main ideas
-5. **Transitional phrases** — words indicating comparison, sequence, or cause-effect (e.g., *in contrast, therefore, as a result*)
+> **Abuses** — *Infelicities in which the act is achieved but performed insincerely (C conditions violated). Austin considers an insincere speech act valid but a form of abuse.*
 
 ---
 
-### 7.9 Outlining the Speech
-Two outlines needed:
 
-| Outline | Purpose |
-|---|---|
-| **Preparation outline** | Full-sentence outline of everything the speaker intends to say; tests logic and structure |
-| **Delivery outline** | Abbreviated version; forces spontaneity; use colored ink for speaking directions |
+### 1.2.3 — Locutionary, Illocutionary, and Perlocutionary Acts
 
-Symbolization pattern: Roman numerals → capital letters → Arabic numerals → lowercase letters
+Austin proposes that every utterance simultaneously performs **three acts**:
+
+> **Locutionary act** — *The act of saying something — producing a meaningful utterance. Consists of three sub-acts:*
+> * **Phonetic act:** uttering certain noises
+> * **Phatic act:** uttering words in a grammatical construction
+> * **Rhetic act:** using words with a certain meaning/sense and reference
+
+> **Illocutionary act** — *The act of doing something* in *saying something — what the speaker does by uttering the words (e.g., warning, promising, ordering, apologising). Illocutionary acts conform to conventions and have* **illocutionary force***. They require* **uptake** *from the hearer.*
+
+> **Perlocutionary act** — *The act of doing something* by *saying something — the effect produced on the hearer's feelings, thoughts, or actions (e.g., persuading, alarming, convincing, deterring). Perlocutionary acts are* **causal***, not conventional; their effects may be intended or unintended.*
+
+**Classic example (Austin):**
+
+| Act | Example |
+|-|-|
+| **Locution** | He said to me "Kiss her!" — meaning by 'kiss' kiss and referring by 'her' to her. |
+| **Illocution** | He urged (advised, ordered) me to kiss her. |
+| **Perlocution** | He got me to (made me) kiss her. |
+
+> **Illocutionary force** — *The conventional power or effect carried by an illocutionary act — what it* does *(e.g., the force of a warning, a promise, an order). Distinct from the locutionary meaning.*
+
+> **Uptake** — *The hearer's understanding of both the meaning* and *the force of the utterance. A necessary condition for a successful illocutionary act. "I cannot be said to have warned an audience unless it hears what I say and takes what I say in a certain sense." (Austin 1962: 116f.)*
+
+**Key distinction — Illocution vs. Perlocution:**
+
+| | Illocutionary Act | Perlocutionary Act |
+|-|-|-|
+| Nature | Conventional | Causal |
+| Requires | Uptake from hearer | No uptake required |
+| Effects | Intended | May be unintended |
+| Example | Warning, promising | Persuading, alarming |
+
+Austin himself concedes (in his tenth lecture) that despite his efforts, distinguishing illocutionary from perlocutionary acts clearly remains very difficult.
 
 ---
 
-### 7.10 Introduction and Conclusion
+## SECTION 1.3: JOHN SEARLE'S SPEECH ACT THEORY
 
-**Introduction — four purposes:**
-1. **Gain attention** (rhetorical question, startling statement, quotation, story)
-2. **Justify the topic** (explain why it matters to the audience)
-3. **Establish credibility** → **Source credibility** = audience's perception of the speaker's *expertise, trustworthiness, and dynamism*
-4. **Preview main ideas**
+### Background
 
-**Conclusion — two steps:**
-1. **Review main ideas**
-2. **Capstone statement** — a closing statement that reinforces the specific purpose (call to action, question, quotation, or story)
+> **Speech Acts** (Searle, 1969) — *Searle systematised and formalised Austin's ideas. He treats speaking as performing illocutionary acts in a* **rule-governed** *form of behaviour. For Searle, "the basic unit of human linguistic communication is the illocutionary act" produced in a complete sentence under specific conditions.*
 
 ---
 
-### 7.11 Delivery
-- Verbal content = only ~10% of total meaning; **nonverbal cues** account for the rest
-- Key vocal cues: **volume, rate** (slower than conversation), **pitch variation**
-- Key physical cues: **direct eye contact**, upright posture, gestures at side
-- Improve delivery through: **rehearsal** (12–15 times), developing **enthusiasm** for the topic, and **concern for audience comprehension**
+### 1.3.1 — What is a Speech Act?
+
+Searle distinguishes two types of rules:
+
+> **Regulative rules** — *Rules that regulate pre-existing forms of behaviour; can be paraphrased as imperatives (e.g., traffic rules). They exist independently of the behaviour they govern.*
+
+> **Constitutive rules** — *Rules that create and define new forms of behaviour — the activity only exists because of the rules (e.g., the rules of chess define what chess* is*). Searle's rules for speech acts are constitutive rules; they represent Austin's felicity conditions in formalised form.*
+
+Every illocutionary act has two parts:
+
+> **Proposition** — *The common referential and predicational content shared across different illocutionary acts. In "Will John leave the room?", "John will leave the room", and "John, leave the room!" — the proposition (John leaving the room) is the same, though the illocutionary acts differ.*
+
+> **Propositional content** — *What the speech act is* about *— the proposition expressed. Every sentence has a* **proposition-indicating element** *and a* **function-indicating device** *(which shows the illocutionary force — via word order, stress, intonation, verb mood, and performative verbs).*
+
+Meaning is both **intentional** (the speaker intends to produce an effect) and **conventional** (this intention is recognised via the rules of the language). Both dimensions are required.
 
 ---
+
+
+
+### 1.3.4 — Searle's Classification of Illocutionary Acts
+
+Searle argues illocutionary acts differ across at least 12 dimensions. The three **most important** are:
+
+> **Illocutionary point** — *The essential purpose or goal of an illocutionary act. Requests and commands share the same illocutionary point (to get the hearer to do something), but differ in illocutionary force.*
+
+> **Direction of fit** — *Whether the words must match the world* **(words-to-world)** *or the world must be changed to match the words* **(world-to-words)**. *Assertions are words-to-world; promises and requests are world-to-words; declarations have both simultaneously.*
+
+> **Expressed psychological state (sincerity condition)** — *The psychological attitude expressed in performing the illocutionary act (e.g., belief for assertions, intention for promises, desire for requests).*
+
+Based on these three dimensions, Searle identifies **five basic types of illocutionary acts**:
+
+| Type | Direction of Fit | Psych. State | Paradigm Examples |
+|-|-|-|-|
+| **1. Representatives** | Words → World | Belief (that p) | Asserting, stating, reporting, concluding, describing |
+| **2. Directives** | World → Words | Want/wish/desire | Requesting, ordering, commanding, begging, challenging |
+| **3. Commissives** | World → Words | Intention | Promising, threatening, offering, pledging |
+| **4. Expressives** | None | Varies (joy, grief, etc.) | Thanking, congratulating, apologising, condoling, welcoming |
+| **5. Declarations** | Both simultaneously | None | Pronouncing married, appointing, firing, declaring war, christening |
+
+**Note on Declarations:** They bring about an alteration in the status or condition of the referred-to object *solely* in virtue of being successfully performed. But they require the speaker and hearer to occupy special places within an **extra-linguistic institution** (e.g., only a judge can declare a verdict; only an ordained official can marry a couple). Example: *"I now pronounce you Man and Wife."*
+
+---
+
+### 1.3.5 — Direct and Indirect Speech Acts
+
+> **Direct speech act** — *A speech act in which there is a direct match between the sentence type and its illocutionary force.*
+> Example: "Pass the salt, please." (imperative form = request force — direct match)
+
+> **Indirect speech act** — *A speech act in which one illocutionary act is performed indirectly by performing another — there is "an ulterior illocutionary point beyond the illocutionary point contained in the meaning of the sentence." The speaker communicates more than is literally said.*
+> Example: "Can you pass the salt?" (grammatically a question about ability; pragmatically a *request*)
+
+The hearer uses the **Cooperative Principle** (Grice, see Section 1.5) plus shared background knowledge and inferential capacity to recognise the ulterior illocutionary point.
+
+Searle notes that most requests in actual conversation are realised as indirect speech acts. Explicit requests and imperatives are relatively rare. The primary motivation for indirectness is **politeness**: *"Politeness is the most prominent motivation for indirectness in requests, and certain forms naturally tend to become the conventionally polite ways of making indirect requests."* (Searle 1975: 76)
+
+---
+
+
+## SECTION 1.5: GRICE'S THEORY OF CONVERSATIONAL IMPLICATURE
+
+### Background
+
+> **"Logic and Conversation"** — *H. Paul Grice's William James Lectures at Harvard (1967), excerpts published in 1975 and 1978. Like Austin and Searle, Grice was interested in how speakers assign meanings to utterances produced in context — specifically the difference between* **what is said** *and* **what is actually meant (implicated)***.*
+
+---
+
+### 1.5.1 — Introduction: What is a Conversational Implicature?
+
+> **Conversational implicature** — *The implied meaning of an utterance that goes beyond its literal content — what the speaker implicates rather than explicitly states. Levinson (2000: 11) defines it as "a default inference, one that captures our intuitions about a preferred or normal interpretation" of a sentence or utterance. The hearer must make inferences to recognise this actual meaning.*
+
+**Example:**
+
+> A: "Will you go to Mark's PhD party?"
+> B: "I have to prepare my inaugural lecture."
+
+B's answer does not address the question literally, but A infers that B will *not* (or cannot) attend. This inference — not explicitly stated — is the **implicature**. Conversational implicature is *"not coded but rather inferred on the basis of some basic assumptions about the rational nature of conversational activity."* (Levinson 2000: 14)
+
+---
+
+### 1.5.2 — The Cooperative Principle and the Four Maxims
+
+> **Cooperative Principle** — *"Make your conversational contribution such as is required, at the state at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged."* (Grice 1975: 45)
+
+This principle assumes that conversation is purposive, rational, and cooperative. Interactants rely on the fact that their partners are generally willing to cooperate and provide relevant information.
+
+The Cooperative Principle is constituted by **four conversational maxims** (echoing Kant's categories of Quantity, Quality, Relation, and Manner):
+
+**Maxim of Quantity — Be informative:**
+1. Make your contribution as informative as is required (for the current purposes).
+2. Do not make your contribution more informative than is required.
+
+**Maxim of Quality — Be truthful:**
+* Supermaxim: Try to make your contribution one that is true.
+1. Do not say what you believe to be false.
+2. Do not say that for which you lack adequate evidence.
+
+**Maxim of Relation — Be relevant:**
+* Single maxim: *"Be relevant."*
+
+**Maxim of Manner — Be perspicuous (clear):**
+* Supermaxim: Be perspicuous.
+1. Avoid obscurity of expression.
+2. Avoid ambiguity.
+3. Be brief (avoid unnecessary prolixity).
+4. Be orderly.
+
+---
+
+### 1.5.3 — Violations and 'Flouting' of Maxims
+
+> **Violating a maxim** — *A speaker fails to observe a maxim — often because observing one maxim would require infringing another (a "clash"). The violation may not be obvious to the hearer.*
+> Example: B answers "Somewhere in the South of France" when A asks exactly where C lives. B cannot be more informative (Quantity) without saying something he lacks evidence for (Quality).
+
+> **Flouting a maxim** — *A speaker deliberately and overtly fails to observe a maxim, exploiting it to generate an implicature. The speaker expects the hearer to recognise the non-observance and infer the intended meaning.*
+
+**Examples of flouting:**
+
+| Maxim Flouted | Example | Implicature |
+|-|-|-|
+| **Quantity (1st)** | Professor's reference letter: *"Mr. X's command of English is excellent, and his attendance at tutorials has been regular."* | The student is not suited for the job; the professor deliberately under-informs. |
+| **Quality** | *"You are the cream in my coffee."* (metaphor) / Calling a treacherous rival *"a fine friend"* (irony) | The literal meaning is false; the hearer computes the intended figurative/ironic meaning. |
+| **Relation** | At a tea party — A: "Mrs. X is an old bag." B: "The weather has been quite delightful this summer, hasn't it?" | B's irrelevant response implicates that A's remark should be ignored and that A has committed a social *faux pas*. |
+| **Manner** | A tautology: *"Boys will be boys."* | Requires computation to be understood non-tautologously as "boys share certain salient behavioural features." |
+
+Figures of speech like **irony, metaphor**, and **understatement** are paradigmatic examples of implicatures generated by flouting the Maxim of Quality.
+
+---
+
 
 ## ALL KEY TERMS AT A GLANCE
 
 | Term | Definition |
-|---|---|
-| **General purpose** | To inform or to persuade |
-| **Specific purpose statement** | Single statement of the desired audience outcome |
-| **Main idea statement** | Precise statement of 2–5 main ideas in the speech |
-| **Examples** | Specific instances (factual or hypothetical) illustrating a point |
-| **Statistics** | Raw numbers or averages used as supporting data |
-| **Testimony** | Direct quotation or paraphrase of an expert or witness |
-| **Reluctant testimony** | Evidence that goes against the source's own self-interest |
-| **Connectives** | Linguistic devices linking ideas in a speech |
-| **Transitions** | Full-sentence statements inserted between sections |
-| **Forecasting** | Previewing subpoints at the start of a main idea |
-| **Parallel order** | Consistent structural pattern across ideas |
-| **Parallel language** | Same words/phrases repeated in previews and main ideas |
-| **Preparation outline** | Full-sentence outline testing logic and structure |
-| **Delivery outline** | Abbreviated speaking notes for spontaneous delivery |
-| **Source credibility** | Audience's perception of speaker's expertise, trustworthiness, and dynamism |
-| **Capstone statement** | Closing line reinforcing the specific purpose |
-| **Web of Knowledge approach** | Research method using citation chains to find foundational sources |
+|-|-|
+| **Logical Positivism** | The view that a sentence is meaningful only if verifiable as true or false (Vienna Circle; Ayer). |
+| **Ordinary Language Philosophy** | Oxford school (1945–1970) that studied everyday language use; rejected formal logic as the sole criterion of meaning. |
+| **Constative** | A statement or assertion that can be true or false. |
+| **Performative** | An utterance that does something; neither true nor false, but happy or unhappy. |
+| **Explicit performative** | Performative with an overt performative verb in the first person present indicative active ("I hereby promise…"). |
+| **Primary performative** | Performative without a performative verb ("I shall be there"). |
+| **Felicity conditions** | Requirements for a performative (speech act) to be successfully and appropriately performed. |
+| **Misfires** | Infelicities where the intended act is not achieved (conditions A or B violated). |
+| **Abuses** | Infelicities where the act is achieved but performed insincerely (condition C violated). |
+| **Locutionary act** | The act of saying something meaningful (phonetic + phatic + rhetic sub-acts). |
+| **Illocutionary act** | Doing something *in* saying something (e.g., warning, promising); governed by convention; has illocutionary force. |
+| **Perlocutionary act** | Producing an effect *by* saying something; causal, not conventional; effects may be unintended. |
+| **Illocutionary force** | The conventional power of an illocutionary act — what it *does* (e.g., the force of a warning, a promise). |
+| **Uptake** | Hearer's understanding of both the meaning and force of an utterance; required for illocutionary success. |
+| **Regulative rules** | Rules that regulate pre-existing behaviour (like traffic rules). |
+| **Constitutive rules** | Rules that create new forms of behaviour (like the rules of chess or speech acts). |
+| **Proposition** | Common referential/predicational content shared across different illocutionary acts. |
+| **Propositional content** | What the speech act is about — the proposition expressed. |
+| **Propositional content conditions** | Specify what the speech act must be about (conditions 2–3 in Searle's promising analysis). |
+| **Preparatory conditions** | Background contextual requirements for the speech act (conditions 4–5). |
+| **Sincerity condition** | The psychological state that must genuinely be expressed (condition 6 — speaker intends to keep promise). |
+| **Essential condition** | What the utterance *counts as*; the core defining feature of the act (condition 7). |
+| **Illocutionary point** | The essential purpose of an illocutionary act (e.g., to get the hearer to do something). |
+| **Direction of fit** | Whether words must match world (representatives) or world must match words (directives/commissives). |
+| **Representatives** | Commit speaker to truth of a proposition; words-to-world (e.g., asserting, stating). |
+| **Directives** | Attempt to get hearer to act; world-to-words (e.g., requesting, ordering, commanding). |
+| **Commissives** | Commit speaker to a future course of action; world-to-words (e.g., promising, threatening). |
+| **Expressives** | Express the speaker's psychological state; no direction of fit (e.g., thanking, apologising). |
+| **Declarations** | Change status/condition by being performed; both directions of fit simultaneously; require institutional roles. |
+| **Direct speech act** | Direct match between sentence type and illocutionary force. |
+| **Indirect speech act** | One illocutionary act performed by performing another; speaker means more than is literally said. |
+| **Cooperative Principle** | Grice's principle: make your conversational contribution as required by the accepted purpose of the exchange. |
+| **Conversational implicature** | Implied meaning beyond literal content; a default inference about the preferred interpretation. |
+| **Maxim of Quantity** | Be as informative as required — not more, not less. |
+| **Maxim of Quality** | Be truthful; don't say what you believe to be false or lack evidence for. |
+| **Maxim of Relation** | Be relevant. |
+| **Maxim of Manner** | Be perspicuous: avoid obscurity and ambiguity; be brief and orderly. |
+| **Violating a maxim** | Failing to observe a maxim, often due to a clash with another maxim. |
+| **Flouting a maxim** | Deliberately and overtly failing to observe a maxim to generate an implicature. |
+| **Cancellable (defeasible)** | Implicature can be explicitly withdrawn without creating a contradiction. |
+| **Non-detachable** | Implicature attaches to meaning, not specific wording; survives paraphrase. |
+| **Calculable** | Implicature can be rigorously worked out from the Cooperative Principle plus context. |
+| **Non-conventional** | Implicature is not part of the lexical/dictionary meaning of the words used. |
+| **Indeterminate** | No one-to-one link between implicature form and intended meaning; multiple interpretations possible. |
+| **Etic grid** | An analytical framework based on Western cultural norms applied to non-Western languages/cultures from outside. |
 
 ---
 
 ## QUICK REVIEW: LIKELY EXAM QUESTIONS
 
-**Q: What is the difference between a general purpose and a specific purpose?**
-General purpose = to inform or persuade (broad). Specific purpose = exact audience outcome stated as a full infinitive sentence.
+**Q: What is the difference between a constative and a performative?**
+Constatives are assertions that can be true or false. Performatives *do* something — they are assessed as happy/unhappy, not true/false. E.g., "I promise to pay you" is not true or false; it *is* a promise.
 
-**Q: What makes a specific purpose statement strong?**
-It must name the audience, state a single distinct idea, and be worded as a precise infinitive sentence.
+**Q: What are felicity conditions? Give an example of a misfire and an abuse.**
+Felicity conditions are the requirements a speech act must meet to succeed. A *misfire* (conditions A/B violated): a bride saying "I don't" — the marriage is not performed. An *abuse* (condition C violated): promising something with no intention to keep it — the act is performed, but insincerely.
 
-**Q: What are the three types of supporting material?**
-Examples, statistics, testimony.
+**Q: What are Austin's three acts and how do they differ?**
+The *locutionary act* is saying something meaningful. The *illocutionary act* is doing something in saying it (e.g., warning, ordering) — conventional, requires uptake. The *perlocutionary act* is the effect produced on the hearer by saying it (e.g., alarming, persuading) — causal, not conventional, may be unintended.
 
-**Q: What are the five organizational patterns for speech bodies?**
-Chronological, spatial, cause–effect, problem–solution, topical.
+**Q: What is the difference between regulative and constitutive rules?**
+Regulative rules govern pre-existing behaviour (like traffic rules). Constitutive rules create new forms of behaviour — the activity only exists because of the rules (like chess, or speech acts).
 
-**Q: What is the difference between a preparation and a delivery outline?**
-Preparation = full sentences, tests logic. Delivery = abbreviated notes for spontaneous delivery.
+**Q: What are Searle's four rule types for speech acts?**
+Propositional content rules (what the act is about), preparatory rules (contextual requirements), sincerity rules (psychological state expressed), and essential rules (what the utterance counts as).
 
-**Q: What are the four purposes of a speech introduction?**
-Gain attention, justify the topic, establish credibility, preview main ideas.
+**Q: What are Searle's five types of illocutionary acts?**
+Representatives (asserting — words-to-world), Directives (requesting — world-to-words), Commissives (promising — world-to-words), Expressives (thanking — no direction of fit), Declarations (pronouncing married — both directions; require institutional roles).
 
-**Q: What is source credibility made up of?**
-Expertise, trustworthiness, and dynamism.
+**Q: What is the difference between a direct and an indirect speech act?**
+In a direct speech act the sentence type matches the illocutionary force ("Pass the salt"). In an indirect speech act one act is performed by performing another — "Can you pass the salt?" is grammatically a question but functions as a request. Motivated primarily by politeness.
 
----
----
+**Q: What is the Cooperative Principle?**
+Grice's foundational principle: *"Make your conversational contribution such as is required, at the state at which it occurs, by the accepted purpose or direction of the talk exchange."* It underpins all conversational implicature.
 
-# CHAPTER 8: Creating and Using Visual Aids
+**Q: What are the four conversational maxims?**
+Quantity (be as informative as required), Quality (be truthful), Relation (be relevant), Manner (be perspicuous — avoid obscurity, ambiguity; be brief and orderly).
 
-## CHAPTER SUMMARY
+**Q: What is the difference between violating and flouting a maxim?**
+A *violation* is an unintentional or clash-motivated failure to observe a maxim. *Flouting* is a deliberate, overt non-observance designed to generate an implicature — the speaker expects the hearer to recognise it and infer the intended meaning.
 
-Chapter 8 covers how visual aids increase a presentation's **clarity, persuasiveness, dynamism, and credibility**. It explains 10 types of visual aids, formatting guidelines for computer-generated graphics (especially PowerPoint), and rules for presenting visual aids effectively to an audience.
+**Q: What are the five properties of implicatures?**
+Cancellable (can be withdrawn without contradiction), non-detachable (tied to meaning, survives paraphrase), calculable (can be worked out from the CP), non-conventional (not part of dictionary meaning), and indeterminate (multiple meanings possible).
 
----
+**Q: How does Keenan challenge Grice's theory?**
+Keenan (1976) showed that Malagasy speakers regularly violate the Maxim of Quantity by withholding information, especially about significant events involving others. This demonstrates that Grice's maxims are not universal social facts but reflect Western cultural assumptions. They can at best serve as an etic grid — a starting point — not a universal framework.
 
-## KEY CONCEPTS & TERMS
-
-### 8.1 Why Visual Aids Work
-> **Visual aid** — *Any pictorial, textual, or graphic image presented visually rather than orally.*
-
-Three benefits:
-1. **Clarity** — humans process verbal and visual information simultaneously via two different modes
-2. **Persuasiveness** — computer-generated overheads increased persuasiveness by 43% in one study
-3. **Dynamism** — motivates the audience to pay attention
-
-> **Guiding principle:** Visual aids should **support**, not replace, the speaker and content.
-
----
-
-### Types of Visual Aids (10 types)
-
-| Type | Key Point |
-|---|---|
-| **Objects** | Best option; resist passing small objects around |
-| **Models** | Scale representations of very large or small items |
-| **Whiteboard/Flip Chart** | Useful only for extended presentations or brainstorming; "low tech" |
-| **Handouts** | Pass out **after** (not during) the presentation; avoids distraction |
-| **Photographs** | Excellent substitute for objects too large/small to bring |
-| **Charts** | Summarize statistical data; simplify by eliminating irrelevant data |
-| **Line Graphs** | Show changes in variables over time |
-| **Pie Charts** | Show parts-to-whole relationships; limit to 7–8 slices |
-| **Bar Graphs** | Compare magnitudes; avoid 3-D versions |
-| **Text Visuals** | Display key words/phrases; limit to **40 words, 7 bullets max** per slide |
-| **Constructed Visuals** | Illustrate complex processes using shapes, lines, arrows |
-| **Animated Visuals** | Motion/animation for engagement (Prezi, PowerPoint Morph) |
-
----
-
-### Formatting Guidelines (PowerPoint)
-1. **Pick a good template** — simple, light backgrounds are best
-2. **Use sans serif fonts** (Arial, Tahoma, Verdana) for on-screen readability
-3. **Handle graphics professionally** — every slide needs a graphic element; avoid clip art unrelated to the slide
-4. **Title all slides** — titles should state the speaker's *interpretation*, not just describe the data
-
-> **Serif fonts** — have flourishes at letter ends (Times New Roman, Georgia) — good for print, not screens
-> **Sans serif fonts** — no flourishes (Arial, Tahoma) — far more readable on screens
-
----
-
-### 8.2 Presenting Visual Aids Effectively
-Rules for using visual aids during a speech:
-1. Only use them when **justified** — don't "jazz up" with unnecessary visuals
-2. Make them **large enough** for the entire audience to see
-3. **Position yourself** so the audience has a clear view — never block the visual
-4. Display the visual **only at the relevant point** in the speech; remove it after
-5. **Explain and interpret** every element — don't let the audience assign their own meaning
-6. Use the **same words** as the title and labels when explaining (parallel language)
-7. **Talk to the audience**, not to the visual aid
-
----
-
-## ALL KEY TERMS AT A GLANCE
-
-| Term | Definition |
-|---|---|
-| **Visual aid** | Any pictorial, textual, or graphic image presented visually |
-| **Text visuals** | Slides displaying key features in words, phrases, and sentences |
-| **Constructed visuals** | Visual aids illustrating complex concepts using shapes, lines, and arrows |
-| **Animated visuals** | Motion-based visuals used to highlight relationships between information |
-| **Charts** | Two-dimensional aids that clarify statistical or relational information |
-| **Line graphs** | Show changes in one or more variables over time |
-| **Pie charts** | Display parts-to-whole relationships |
-| **Bar graphs** | Make comparisons among magnitudes |
-| **Serif fonts** | Fonts with flourishes at stroke ends; better for print |
-| **Sans serif fonts** | Fonts without flourishes; better for on-screen display |
-
----
-
-## QUICK REVIEW: LIKELY EXAM QUESTIONS
-
-**Q: What are the three ways visual aids add to presentation effectiveness?**
-Clarity, persuasiveness, and dynamism.
-
-**Q: Why should handouts be distributed after, not during, a presentation?**
-Handouts distract — audience reads ahead or misses important points while reading.
-
-**Q: When should you use 3-D charts?**
-Only when the data being depicted is actually three-dimensional; otherwise, 2-D charts are clearer and easier to read.
-
-**Q: What is the limit for text on a text visual slide?**
-40 words per slide, no more than 7 main bullets.
-
-**Q: What font type is best for PowerPoint slides, and why?**
-Sans serif (Arial, Tahoma) — they are more readable on screens than serif fonts.
-
-**Q: What is the speaker's responsibility when displaying a visual aid?**
-To explain and interpret all major parts — the audience doesn't automatically assign the speaker's intended meaning.
-
----
----
-
-# CHAPTER 9: Technical Presentations
-
-## CHAPTER SUMMARY
-
-Chapter 9 focuses on communicating **technical, scientific, or complex information** to non-expert (lay) audiences. It defines technical communication, explains the importance of **accuracy and shared meaning**, offers general guidelines for making technical content clear, identifies two common obstacles (difficult concepts and difficult structures/processes), and provides strategies for overcoming them.
-
----
-
-## KEY CONCEPTS & TERMS
-
-### 9.1 What Is Technical Communication?
-> **Technical communication** — *Communication about scientific, engineering, technological, statistical, business, regulatory, privacy, legal, managerial, or social scientific information.*
-
-> **Technical presentation** — *A prepared formal presentation on one or more of these topics to a nonexpert audience.*
-
-Two goals of technical communication:
-1. **Accuracy** — information must be correct, complete, and detailed enough for the audience
-2. **Shared meaning** — the audience must draw one and only one meaning from the communication — *the meaning intended by the communicator*
-
----
-
-### 9.2 General Guidelines
-
-**9.2.1 Make Appropriate Word Choices**
-- Rely on **short, two-syllable words** over longer, more complex ones
-- Avoid **jargon** — unnecessarily obscure terminology used to confuse rather than clarify
-
-> **Jargon** — *Any technical terminology particular to a discipline, but used here as unnecessarily obscure language that prevents uninitiated members from participating.*
-
-Note: True technical terms (e.g., *photosynthesis, catalyst*) have limited, precise meanings and may be necessary — unlike jargon designed to obscure.
-
-**9.2.2 Make Frequent Use of Examples and Analogies**
-> **Analogy** — *A comparison between two objects, events, instances, or people suggesting what is true of one is also true of the other.*
-
-- **Organizing analogy** — communicates the general impression of a structure or process in a nutshell (e.g., "The atom is like a small solar system")
-- Examples make abstract information concrete
-
-**9.2.3 Translate Measurement Scales**
-- Measurement scales unfamiliar to lay audiences must be explained with analogies (e.g., "10 microns = 10 times smaller than the diameter of a human hair")
-
-**9.2.4 Create Relevant Visual Aids**
-- Visual aids are essential for nearly all technical presentations — they increase clarity for complicated pictorial, statistical, or conceptual material
-
----
-
-### 9.3 Overcoming Obstacles to Shared Meaning
-
-Two major obstacles (identified by Katherine Rowan, Purdue University):
-
-#### Obstacle 1: Difficult Concepts
-When people struggle to distinguish a concept's **essential features** from its **associated features**.
-
-Three strategies:
-1. **Logical definition** — Two steps: (1) place the concept in a general category, (2) explain distinguishing characteristics
-2. **Operational definition** — Explains how something functions or the steps in a process
-3. **Definition by etymology** — Explains the historical/linguistic origin of the word
-4. **Provide a typical example** — A representative instance of the concept
-5. **Provide examples and nonexamples** — Help audience distinguish the concept from similar things
-
-#### Obstacle 2: Difficult Structures or Processes
-When the structure or process is hard for the audience to visualize.
-
-Two strategies:
-1. **Graphic model** — A flowchart or diagram of the entire structure/process (e.g., the FMC phosphorus plant flowchart)
-2. **Organizing analogy** — A simple, familiar comparison that captures the "big picture"
-
----
-
-### 9.4 Structuring the Technical Presentation
-> **Report that communicators should select a structure that is clear and fits the content.**
-
-- Any structure from Chapter 7 can be used
-- For complex structures/processes: **cause–effect** or **problem–solution** may work best
-- Whatever structure is chosen, it must be **clearly organized**
-- The introduction is critical — use attention-gaining devices that connect the technical topic to popular interest (pop culture, current events, notable scientists)
-
----
-
-## ALL KEY TERMS AT A GLANCE
-
-| Term | Definition |
-|---|---|
-| **Technical communication** | Communication about scientific, engineering, technical, business, or social scientific information |
-| **Technical presentation** | Prepared formal presentation on a technical topic to a nonexpert audience |
-| **Accuracy** | Information that is correct, complete, and detailed enough for the audience |
-| **Shared meaning** | The audience draws only the meaning the communicator intended |
-| **Jargon** | Unnecessarily obscure terminology that prevents participation in decision making |
-| **Analogy** | Comparison between two objects/events suggesting what is true of one applies to the other |
-| **Organizing analogy** | A simple comparison that communicates the general impression of a structure or process |
-| **Logical definition** | Placing a concept in a general category then identifying its distinguishing characteristics |
-| **Operational definition** | Explains how something functions or works (the steps in a process) |
-| **Definition by etymology** | Defines a concept by its linguistic/historical origin |
-| **Essential features** | Features of a concept that are always present |
-| **Associated features** | Features frequently but not necessarily present in a concept |
-| **Graphic model** | A flowchart or diagram helping the audience visualize an entire structure or process |
-
----
-
-## QUICK REVIEW: LIKELY EXAM QUESTIONS
-
-**Q: What are the two goals of technical communication?**
-Accuracy and shared meaning.
-
-**Q: What is the difference between jargon and legitimate technical terms?**
-Jargon is unnecessarily obscure language designed to confuse. Legitimate technical terms (like *photosynthesis*) have precise, limited meanings that aid expert communication.
-
-**Q: What are the two major obstacles to shared meaning?**
-Difficult concepts and difficult structures or processes.
-
-**Q: What is a logical definition?**
-Two steps: (1) place the concept in a general category, (2) explain the characteristics that distinguish it from all other members of that category.
-
-**Q: What is the difference between essential and associated features?**
-Essential features are always present in a concept. Associated features are frequently — but not necessarily — present.
-
-**Q: What is an organizing analogy?**
-A simple, familiar comparison that communicates the big-picture impression of a complex structure or process (e.g., "The atom is like a small solar system").
-
----
----
-
-# CHAPTER 10: Proposal Presentations
-
-## CHAPTER SUMMARY
-
-Chapter 10 focuses on **persuasive proposal presentations** — how to structure them, build logical arguments (deductive and inductive), refute objections, establish speaker credibility, and make effective emotional appeals. The chapter covers four persuasive structures and breaks down how arguments are constructed and evaluated.
-
----
-
-## KEY CONCEPTS & TERMS
-
-### 10.1 Audience Analysis for Proposals
-- Audience analysis guides all tactical choices: structure, logical arguments, credibility, and emotional appeals
-- Use the **Audience Analysis Checklist** (from Ch. 6) — categorize the audience as favorable, apathetic, neutral, active, hostile, or mixed
-- Apply **Table 6.1 strategies** to adapt content, structure, and delivery accordingly
-
----
-
-### 10.2 Four Proposal Structures
-
-| Structure | Best For | Key Feature |
-|---|---|---|
-| **Problem–Solution** | Audiences aware of the problem | Articulate the problem, then provide a specific solution |
-| **Monroe's Motivated Sequence** | Hesitant audiences; need motivation to act | 5 steps: Attention → Need → Satisfaction → Visualization → Action |
-| **N-A-R (Narrative–Argument–Refutation)** | Neutral audiences; dramatic testimonials | Story (narrative) + logical arguments + refutation of objections |
-| **Balance Structure** | Audience knows the problem but is undecided on solutions | Eliminate competing solutions one by one until only your solution remains |
-
-#### Monroe's Motivated Sequence — 5 Steps in Detail:
-1. **Attention** — rhetorical questions, startling statements, stories
-2. **Need** — state, illustrate, reinforce with statistics, point to the audience (4 sub-steps)
-3. **Satisfaction** — provide support for your plan; address objections
-4. **Visualization** — paint a vivid picture of the future if the plan is adopted
-5. **Action** — specific, direct call to action
-
-#### N-A-R Structure Notes:
-- Introduction does NOT preview main ideas (ruins the element of surprise)
-- **Narrative** uses vivid, documented stories — hypothetical narratives are easily dismissed
-- **Refutation** addresses key objections
-- Good for neutral audiences because emotional narrative builds engagement
-
-#### Balance Structure Notes:
-- Introduction does NOT preview main ideas
-- Presenter acknowledges positive qualities of each competing solution (shows objectivity)
-- Then demonstrates drawbacks of each alternative
-- Ends by presenting speaker's solution
-
----
-
-### 10.3 Developing Persuasive Arguments
-
-> **Arguments** — *Lines of deductive or inductive reasoning that answer the question "Why should the audience accept my claim?"*
-
-> **Claim** — *A particular interpretation the speaker wants the audience to accept.*
-
-#### 10.3.1 Deductive Arguments
-> **Deductive arguments** — *Move from general principles to conclusions about specific cases.*
-
-Three types:
-
-**1. Causal Reasoning**
-- Claims that one event produces another
-- Tests: (1) Does a causal relationship really exist? (2) Is the cause sufficient? (3) Could other causes intervene?
-
-**2. Argument from Sign**
-- We see something → we infer it stands for something else
-- Tests: (1) Is there another explanation? (2) Are sufficient signs present? (3) Are contradictory signs considered?
-
-**3. Syllogistic Arguments**
-- Three statements: **major premise → minor premise → conclusion**
-
-Three types of syllogisms:
-
-| Type | Key Feature |
-|---|---|
-| **Categorical syllogism** | Major premise classifies without qualification ("all," "every," "none") |
-| **Hypothetical syllogism** | Major premise deals with conditional/uncertain instances ("if…then") |
-| **Disjunctive syllogism** | Major premise presents alternatives ("either…or") |
-
-> **Practical syllogism** — *A syllogism where one premise or the conclusion is unstated because the audience already shares the assumption.*
-
-#### 10.3.2 Inductive Arguments
-> **Inductive arguments** — *Move from particular observations to general conclusions.*
-
-Four types:
-
-| Type | Definition | Tests |
-|---|---|---|
-| **Analogy** | Comparison between two similar cases | Are cases essentially alike? Are compared traits accurate? |
-| **Example** | Specific instances used to draw broader conclusions | Are examples typical, relevant, and sufficient? |
-| **Testimony** | Direct quotation or paraphrase of experts | Does authority have expertise? Is authority free from bias? |
-| **Statistics** | Raw numbers or averages | Is source recent and valid? Based on adequate sample? |
-
----
-
-### 10.3.3 Refutation Tactics
-> **Refutation** — *An argument that addresses and eliminates objections to the proposal.*
-
-Four refutation strategies:
-
-| Strategy | How It Works |
-|---|---|
-| **Denial** | The objection is simply not true |
-| **Minimization** | The objection is true but its significance is minimal |
-| **Exposing inconsistent statements** | The opposition's words/actions contradict each other |
-| **Turning the tables** | The objection is accurate, but it actually *supports* the proposal |
-
-Select and address only the **2–3 strongest objections** (refuting weak objections doesn't persuade).
-
----
-
-### 10.4 Outlining to Show Logical Relationships
-- State claims **before** supporting reasons and evidence
-- Restate your claim as an **internal summary** at the end of each main point (avoids audience confusion)
-- Subpoints support each claim with deductive and inductive reasoning
-
----
-
-### 10.5 Credibility Appeals
-> **Credibility** — *The audience's perception of the speaker's competence, trustworthiness, and dynamism.*
-
-Three components:
-
-| Component | Definition |
-|---|---|
-| **Competence** | Audience's perception of the speaker's knowledge and expertise on the topic |
-| **Trustworthiness** | Audience's perception of the speaker's honesty, objectivity, fairness, and concern for the audience |
-| **Dynamism** | Audience's perception of the speaker's energy, confidence, and enthusiasm |
-
-Ways to build each:
-- Competence: have someone introduce your credentials; use the credibility step in the introduction; cite credible sources
-- Trustworthiness: establish common ground; show objectivity; use a variety of sources; acknowledge competing proposals
-- Dynamism: demonstrate commitment; be enthusiastic; maintain eye contact and confident delivery
-
----
-
-### 10.6 Emotional Appeals
-- Effective proposals include **emotional appeals** to make listeners more willing to complete practical syllogisms
-- Emotions to target: envy, fear, compassion, shame, commitment, pride, dread, anger, security, frustration
-- Techniques: **emotional examples**, **vivid language**, **descriptive detail**, **effective delivery**
-
----
-
-## ALL KEY TERMS AT A GLANCE
-
-| Term | Definition |
-|---|---|
-| **Claim** | A particular interpretation the speaker wants the audience to accept |
-| **Arguments** | Lines of deductive or inductive reasoning supporting a claim |
-| **Problem–solution structure** | Structure that articulates a problem and provides a solution |
-| **Monroe's Motivated Sequence** | 5-step persuasive structure: Attention, Need, Satisfaction, Visualization, Action |
-| **N-A-R structure** | Narrative–Argument–Refutation; uses a story + arguments + refutation |
-| **Balance structure** | Eliminates competing solutions until only the speaker's proposal remains |
-| **Deductive arguments** | Move from general principles to specific conclusions |
-| **Inductive arguments** | Move from specific observations to general conclusions |
-| **Causal reasoning** | Claims the second event is produced by the first |
-| **Argument from sign** | Infers that one thing stands for the occurrence of something else |
-| **Categorical syllogism** | Major premise classifies without qualification (all, every, none) |
-| **Hypothetical syllogism** | Major premise deals with conditional/uncertain instances (if…then) |
-| **Disjunctive syllogism** | Major premise presents alternatives (either…or) |
-| **Practical syllogism** | Syllogism with an unstated premise the audience already shares |
-| **Analogy** | Comparison between two similar cases to support a conclusion |
-| **Testimony** | Quotation or paraphrase of an expert or witness |
-| **Reluctant testimony** | Evidence that goes against the source's self-interest |
-| **Refutation** | An argument that addresses and eliminates objections to the proposal |
-| **Denial** | Refutation by asserting the objection is not true |
-| **Minimization** | Refutation by acknowledging the objection but reducing its significance |
-| **Exposing inconsistent statements** | Refutation by showing the opposition contradicts itself |
-| **Turning the tables** | Refutation by showing the objection actually supports the proposal |
-| **Credibility** | Audience's perception of speaker's competence, trustworthiness, and dynamism |
-| **Competence** | Audience's perception of speaker's knowledge and expertise |
-| **Trustworthiness** | Audience's perception of speaker's honesty, objectivity, and concern for the audience |
-| **Dynamism** | Audience's perception of speaker's energy, confidence, and enthusiasm |
-
----
-
-## QUICK REVIEW: LIKELY EXAM QUESTIONS
-
-**Q: What are the four persuasive structures covered in Chapter 10?**
-Problem–solution, Monroe's Motivated Sequence, N-A-R, and Balance structure.
-
-**Q: What are the five steps of Monroe's Motivated Sequence?**
-Attention, Need, Satisfaction, Visualization, Action.
-
-**Q: What is the difference between deductive and inductive arguments?**
-Deductive = general principles → specific conclusions. Inductive = specific observations → general conclusions.
-
-**Q: What are the three types of syllogisms?**
-Categorical (all/every/none), hypothetical (if…then), disjunctive (either…or).
-
-**Q: What is a practical syllogism?**
-A syllogism where one premise or the conclusion is left unstated because the audience already shares the assumption.
-
-**Q: What are the four refutation strategies?**
-Denial, minimization, exposing inconsistent statements, turning the tables.
-
-**Q: What are the three components of credibility?**
-Competence, trustworthiness, and dynamism.
-
-**Q: Why should you only refute the 2–3 strongest objections?**
-Refuting weak objections fails to persuade — the audience still holds strong reasons to oppose the proposal.
-
-**Q: What is the difference between the N-A-R and Balance structures?**
-N-A-R uses a narrative story + arguments + refutation, best for neutral audiences. Balance structure systematically eliminates competing solutions, best when the audience is undecided about which solution to choose.
+**Q: What is the cross-cultural critique of speech act theory?**
+Research by Rosaldo (Ilongots), Gumperz, Tannen, Harris, and Hudson shows that speech acts are highly culture-specific. Rosaldo's study is the strongest: Ilongots do not prioritise individual intention and truth as Searle's framework assumes — for them, relations come first. This exposes the "individualistic and relatively asocial biases" of Searle's theory.
